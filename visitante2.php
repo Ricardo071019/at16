@@ -21,7 +21,7 @@ else
  	echo "Nome: ".$nome2."<br>";
  	echo "Idade: ".$idade2;
 
- 	echo '<a href='formulario.html'><h5><b>Voltar</b></h5></a>';
-echo '<a href='princiapl.php'><h5><b>Principal</b></h5></a>';
-echo '<a href='Visitante1.php'><h5><b>Visitante 1 2</b></h5></a>';
+ 	echo '<a href="formulario.html"><h5><b>Voltar</b></h5></a>';
+echo '<a href="princiapl.php"><h5><b>Principal</b></h5></a>';
+echo '<a href="Visitante1.php"><h5><b>Visitante 1 2</b></h5></a>';
  }
